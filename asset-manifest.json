@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new-repositary/static/css/main.a747c9c3.css",
+    "main.js": "/new-repositary/static/js/main.c74649f7.js",
+    "static/js/787.56aea7ae.chunk.js": "/new-repositary/static/js/787.56aea7ae.chunk.js",
+    "static/media/International_Pokémon_logo.svg.png": "/new-repositary/static/media/International_Pokémon_logo.svg.d777aa7af9c7c709dd41.png",
+    "index.html": "/new-repositary/index.html",
+    "main.a747c9c3.css.map": "/new-repositary/static/css/main.a747c9c3.css.map",
+    "main.c74649f7.js.map": "/new-repositary/static/js/main.c74649f7.js.map",
+    "787.56aea7ae.chunk.js.map": "/new-repositary/static/js/787.56aea7ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a747c9c3.css",
+    "static/js/main.c74649f7.js"
+  ]
+}
